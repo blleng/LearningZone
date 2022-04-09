@@ -8,7 +8,7 @@
 
 The course webpage is [here](http://www-thphys.physics.ox.ac.uk/people/SteveSimon/condmat2015/condmat.html).
 
-Lecture notes available [here](http://www-thphys.physics.ox.ac.uk/people/SteveSimon/condmat2012/LectureNotes2012.pdf), and some errors noted [here](http://www-thphys.physics.ox.ac.uk/people/SteveSimon/condmat2012/typos.html).
+Lecture notes available [here](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/ETMI-nkUIl9IkwKedioo4o4BvkZP9DgznuGhbEVfMutPmg?e=OZ0tEg), and some errors noted [here](http://www-thphys.physics.ox.ac.uk/people/SteveSimon/condmat2012/typos.html).
 
 ### David Tong
 
@@ -16,13 +16,13 @@ Lecture notes available [here](http://www-thphys.physics.ox.ac.uk/people/SteveSi
 
 The course webpage is [here](http://www.damtp.cam.ac.uk/user/tong/solidstate.html).
 
-Full lecture notes available [here](http://www.damtp.cam.ac.uk/user/tong/aqm/solidstate.pdf).
+Full lecture notes available [here](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/EUShgSV4V01Enld3fQy-q_sBwVkBD3apmm8Ur5HM9ZdZAw).
 
 The content is divided into 4 parts:
-1. [Particles in Magnetic Fields](http://www.damtp.cam.ac.uk/user/tong/aqm/solid1.pdf): Gauge field, gauge transformation; Landau levels, degeneracy; Aharonov-Bohm effect; Magnetic monopoles, Dirac quantisation; Spin in a magnetic field, spin precession.
-2. [Band Structure](http://www.damtp.cam.ac.uk/user/tong/aqm/solid2.pdf): Electrons in one dimension, tight-binding, nearly free electrons, Floquet matrix, Bloch's theorem; Bravais lattices, cubic, BCC and FCC, the Wigner-Seitz cell, the reciprocal lattice, the Brillouin zone; band structure, crystal momentum, crystallographic notation, nearly free electrons in 3d, tight-binding in 3d; Wannier functions, localised and extended stats, LCAO.
-3. [Electron Dynamics in Solids](http://www.damtp.cam.ac.uk/user/tong/aqm/solid3.pdf): Fermi surfaces, metals vs insulators, graphene; Bloch electrons; effective velocity and mass, semi-classical equations of motion, Bloch oscillations, holes, Drude model; magnetic fields, cyclotron frequency, Onsager quantisation, de Haas-van Alphen oscillations.
-4. [Phonons](http://www.damtp.cam.ac.uk/user/tong/aqm/solid4.pdf): Monotonic chain; diatomic chain, optical and accoustic bands, Peierls instability; Quantization; Field theory.
+1. [Particles in Magnetic Fields](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/EaWGPdPy26BIqx8Ix_uyntcBKO7LX3mojR4DTI4UEWf_ug?e=ZJBf9B): Gauge field, gauge transformation; Landau levels, degeneracy; Aharonov-Bohm effect; Magnetic monopoles, Dirac quantisation; Spin in a magnetic field, spin precession.
+2. [Band Structure](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/Eb5y5piAZDRNpAamNducV3cBBbeA1a70ojRcZgMk2wrEWQ?e=rJ93sj): Electrons in one dimension, tight-binding, nearly free electrons, Floquet matrix, Bloch's theorem; Bravais lattices, cubic, BCC and FCC, the Wigner-Seitz cell, the reciprocal lattice, the Brillouin zone; band structure, crystal momentum, crystallographic notation, nearly free electrons in 3d, tight-binding in 3d; Wannier functions, localised and extended stats, LCAO.
+3. [Electron Dynamics in Solids](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/Ea1326ZnE8ZPhweqIRElvGIBZO_gjQEcbIoi7edqKOn2-Q?e=3Hrs8V): Fermi surfaces, metals vs insulators, graphene; Bloch electrons; effective velocity and mass, semi-classical equations of motion, Bloch oscillations, holes, Drude model; magnetic fields, cyclotron frequency, Onsager quantisation, de Haas-van Alphen oscillations.
+4. [Phonons](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/EbKUBc0D5khLuPg_-st3qkMBbeDpN0vZozhTBtVqUVg3IA?e=2cxUJa): Monotonic chain; diatomic chain, optical and accoustic bands, Peierls instability; Quantization; Field theory.
 
 ## Videos
 
