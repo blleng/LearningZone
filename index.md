@@ -1,5 +1,4 @@
-Learning Materials and Notes
----
+# Learning Materials and Notes
 
 ## Statistical Physics
 
