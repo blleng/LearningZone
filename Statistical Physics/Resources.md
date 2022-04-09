@@ -6,7 +6,7 @@
 
 *MIT Statistical Mechanics* (by [Jianshu Cao](https://chemistry.mit.edu/profile/jianshu-cao/))
 
-Lecture Notes available [here](https://ocw.mit.edu/courses/5-72-statistical-mechanics-spring-2012/pages/lecture-notes/).
+The course webpage is available [here](https://ocw.mit.edu/courses/5-72-statistical-mechanics-spring-2012/).
 
 >Lecture notes were originally prepared by Tim Kowalczyk and Kara Manke, and updated by Chern Chuang, Thomas Avila, and Michael Mavros, in collaboration with Professor Cao.
 
