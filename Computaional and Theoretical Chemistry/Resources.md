@@ -30,3 +30,15 @@ Instructed by Robert Field.
 
 Course webpage is available [here](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/).
 
+## Reference Books
+
+- *Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics*, Errol G. Lewars, Third Edition 2016, Springer
+  - PDF available [here](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/EfslnjwZb8RJmNgHBtSt9CIBiWCl2k1X89FBxjhkyXo2yQ?e=uTK1Je).
+- *Density Functional Theory: A Practical Introduction*, David S. Sholl and Janice A. Steckel, 2009, Wiley
+  - PDF available [here](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/Ece6yoCtr7pAp0MCcYAAbSoBb_UU1jls6tC8IZjFkTp-tg?e=zjR2nw)
+- *Quantum Chemistry*, Ira A. Levine, Seventh Edition 2014, Pearson
+  - PDF available [here](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/ETGpSImh82BLjb6UhC0EntcBx7k4Zqg4yW-qb9LZAF_TjA?e=lhAEu6)
+- 《量子化学：基本原理和从头计算法》，徐光宪、黎乐民、王德民，第二版 2007，科学出版社
+  - [Part I](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/EcQNfP72cIhEs0n7wpCigWMBzLx3M-19YoK7rIE4BVT3Tg?e=Irz6uk)
+  - [Part II](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/ES-RS1P5iJxMiBeMC69ucy0BG0SwEqsEcTrIa8ljIe6jPQ?e=aX7JpS)
+  - [Part III](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/EUbZRaaZnGZHjK_uNHk0XdwBv8gT91_yt8FxmdKZHnWwHQ?e=V8lJfY)

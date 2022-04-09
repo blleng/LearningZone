@@ -2,17 +2,17 @@
 
 ## Lecture Notes
 
-### Steven H. Simon
+### Oxford Solid State Physics
 
-*Oxford Solid State Physics* (by [Steven H. Simon](http://www-thphys.physics.ox.ac.uk/people/SteveSimon/))
+Instructed by [Steven H. Simon](http://www-thphys.physics.ox.ac.uk/people/SteveSimon/).
 
 The course webpage is [here](http://www-thphys.physics.ox.ac.uk/people/SteveSimon/condmat2015/condmat.html).
 
 Lecture notes available [here](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/ETMI-nkUIl9IkwKedioo4o4BvkZP9DgznuGhbEVfMutPmg?e=OZ0tEg), and some errors noted [here](http://www-thphys.physics.ox.ac.uk/people/SteveSimon/condmat2012/typos.html).
 
-### David Tong
+### Cambridge Lectures on Solid State Physics
 
-*Cambridge Lectures on Solid State Physics* (by [David Tong](http://www.damtp.cam.ac.uk/user/tong/))
+Instructed by [David Tong](http://www.damtp.cam.ac.uk/user/tong/).
 
 The course webpage is [here](http://www.damtp.cam.ac.uk/user/tong/solidstate.html).
 
@@ -73,5 +73,5 @@ The content is divided into 4 parts:
 
 ## Reference Books
 
-- 《固体物理导论》：Charless Kittel 著，项金钟，吴兴惠 译，原著第 8 版，化学工业出版社
+- 《固体物理导论》，Charless Kittel 著，项金钟，吴兴惠 译，原书第 8 版，化学工业出版社
   - PDF available [here](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/ETLTimF1BX9Duy-TL9jZ5hMBLaPmPzEA5DOC6NbLteHnew).
