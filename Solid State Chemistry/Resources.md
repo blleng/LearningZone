@@ -1,6 +1,8 @@
 # Solid State Chemistry
 
-## Donald R. Sadoway
+## Lecture Notes
+
+### Donald R. Sadoway
 
 *MIT Introduction to Solid State Chemistry* (by [Donald R. Sadoway](https://dmse.mit.edu/people/donald-r-sadoway))
 

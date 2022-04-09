@@ -12,4 +12,4 @@
 
 ## Theoretical and Computaional Chemistry
 
-- Resources are listed [here](Theoretical and Computaional Chemistry/Resources)
+- Resources are listed [here](Computaional and Theoretical Chemistry/Resources)
