@@ -8,6 +8,8 @@ Instructed by [Donald R. Sadoway](https://dmse.mit.edu/people/donald-r-sadoway).
 
 The course [webpage](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/pages/resource-index/) provides lecture videos, practice problems et al.
 
+Course videos are also available in [SJTU Library All Digital Resource Center](http://10.119.0.169/#!/resource/39611/) (only for internal access).
+
 The summary of lecture notes are available here:
 
 1. [Unit 1: Lectures 1-9](https://lleng-my.sharepoint.com/:b:/g/personal/leng_blleng_cn/ETvGdUl7BjJNrKe7OOpe-7MB9GHfAlKMdYE8tZ0JOaPnPw?e=KG1Zsm)
